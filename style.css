@@ -5,16 +5,24 @@
 
 .logo-container{
     border: 1px solid green;
-    width: 87px;
     display: flex;
+    width: 50%;
+}
+
+.logo-container img{
+    border: 1px solid red;
+    width: 50px;
+    object-fit: cover;
+    margin-right: 20px;
 }
 
 .logo-container p{
-    font-size: 40px;
+    font-size: 30px;
+    border: 1px solid orange;
 }
 
 
 .nav-item-container{
     border: 1px solid blue;
-
+    width: 50%;
 }
