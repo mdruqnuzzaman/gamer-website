@@ -217,4 +217,31 @@ text-align: right;
    font-weight: 500;
    line-height: 30px; 
 }
+
+/* paly container starts */
+
+.play-container{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.main-container-title{
+ margin-top: 200px;
+ margin-bottom: 20px;
+ margin-left:350px;
+ text-align: right;
+ font-size: 48px;
+ line-height: 60px;
+}
+
+
+.image-tag{
+    margin-right: 240px;
+}
+
+.play-cl{
+    color:#F948B2 ;
+}
+
 /* banner contiiner ends */
