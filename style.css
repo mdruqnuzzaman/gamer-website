@@ -244,4 +244,24 @@ text-align: right;
     color:#F948B2 ;
 }
 
+
+/* sponsor section stsrts */
+
+
+.sponsor-img-container{
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 125px;
+    padding-bottom: 125px;
+    margin-left: 240px;
+    margin-right: 240px;
+
+   
+background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+}
+
+/* footer starts */
+
+
 /* banner contiiner ends */
